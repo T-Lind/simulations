@@ -1,0 +1,8 @@
+{
+  "sim_time": 60,
+  "animate": true,
+  "sweep_mode": false,
+  "runs": 30,
+  "scooter_speed": 150,
+  "grid_size": 10
+}
